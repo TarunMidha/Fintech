@@ -21,7 +21,7 @@ The growth of peer-to-peer lending has been phenomenal in recent years, with the
 
 * The potential returns from peer-to-peer lending are attractive, but investors must also be mindful of the risks involved. Not all borrowers are creditworthy, and it is possible to incur losses on certain investments. Additionally, legal and taxation issues may need to be considered, depending on the jurisdiction. Despite this, peer-to-peer lending can still be viable for investors looking to diversify their portfolios and access higher returns. 
 
-## Things to Keep in Mind for a Case Study
+## Things to Keep in Mind
 
 
 1. Understand the Risks: Peer-to-peer lending carries certain risks that you should take into consideration before entering an agreement. These include your credit score, the loan terms, and any potential legal or financial ramifications.
