@@ -1,6 +1,6 @@
 # Case Study Proposal:  Peer-to-Peer Lending 
 
-![image](p2p.png)
+![image](https://wealthofgeeks.com/wp-content/uploads/2020/10/Peer-to-Peer.png)
 
 ## What Is It
 
