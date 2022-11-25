@@ -83,3 +83,4 @@ Blockchain technology can help P2P lending platforms become more efficient and s
 * [Crunchbase](https://www.crunchbase.com/organization/gopeer-06fb)
 * [LinkedIn](https://ca.linkedin.com/company/gopeer-ca)
 * [LeewayHertz](https://www.leewayhertz.com/blockchain-p2p-lending-platform/)
+* [RateSetter](https://www.RateSetter.com)
