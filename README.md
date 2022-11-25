@@ -53,6 +53,12 @@ goPeer also offers more flexibility and control to both borrowers and lenders, w
 
 Overall, goPeer provides an accessible alternative to RateSetter for those who want to borrow or lend money. With its user-friendly interface and flexible loan terms, goPeer stands out from the competition as a reliable and easy-to-use platform for peer-to-peer lending.
 
+### Other most notable competitors are:
+* MoneyLion
+* PeerStreet
+* Upstart
+
+
 ---
 
 
